@@ -1,28 +1,12 @@
-# chat_app_with_firebase
+# Chat App With Firebase
 
-A new Flutter project.
+https://github.com/user-attachments/assets/622d98ba-61cb-475d-b502-439a975b418a
 
-## Getting Started
+## 💬 Key Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-https://github.com/banku27/Youtube-Messenger-App
-
-dart pub global activate flutterfire_cli
-
-flutterfire configure --project=chat-app-7d858
-
-somad@gmail.com
-password -- somad123@
-
-
-flutter variable type check shortcut key --> Ctrl +Alt
+- **Real-Time Messaging**: Send & receive messages instantly!
+- **Online & Typing Indicators**: Show user status in real-time.
+- **Last Seen & Read/Delivered Receipts**: Keep track of user activity.
+- **Block/Unblock Users**: Full control over who can chat.
+- **Unread Count**: See how many unread messages you have.
+- **Emojis & More**: Add fun reactions to your chats.
